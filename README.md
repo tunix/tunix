@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Alper Kanat (aka tunix)
 
-**Platform Engineering Manager @getmidas**
+**Engineering Manager, Platform | Cloud Infrastructure and Operations @getmidas**
 *Formerly Engineering Tech Lead @trendyoltech, Solution Architect @dataroid*
 
 ---
