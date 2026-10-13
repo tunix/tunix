@@ -18,7 +18,6 @@
 - [dotfiles](https://github.com/tunix/dotfiles)
 - [valhalla](https://github.com/tunix/valhalla)
 - [penguix](https://github.com/tunix/penguix)
-- [homebot](https://github.com/tunix/homebot)
 - [digitalocean-dyndns](https://github.com/tunix/digitalocean-dyndns)
 
 ---
