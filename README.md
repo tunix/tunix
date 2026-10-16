@@ -17,6 +17,7 @@
 
 - [dotfiles](https://github.com/tunix/dotfiles)
 - [valhalla](https://github.com/tunix/valhalla)
+- [rtv](https://github.com/tunix/rtv)
 - [penguix](https://github.com/tunix/penguix)
 - [digitalocean-dyndns](https://github.com/tunix/digitalocean-dyndns)
 
